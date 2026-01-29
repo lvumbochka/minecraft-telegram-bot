@@ -1,2 +1,2 @@
-# minecraft-telegram-bot
-Бот для Minecraft сервера
+# Minecraft Telegram Bot
+Бот для управления сервером Minecraft
