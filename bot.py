@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 from flask import Flask, request
 
 # Конфигурация
-TOKEN = os.getenv('TELEGRAM_TOKEN', '8547051827:AAEgIj1624F5Vrpx4oXwa-qj4Hie1SwOY3g')
+TOKEN = os.getenv('TELEGRAM_TOKEN', '8297599326:AAFIts64NWbahE2acjBVOWEoq84hvbHv8AU')
 ADMIN_ID = 5350202227
 ADMINS = [5350202227]
 
